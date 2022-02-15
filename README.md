@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&show_icons=true&theme=radical) -->
 
-![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&count_private=true)
+![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&count_private=true&show_owner=true)
 
 <!-- ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&hide=contribs,prs) -->
 
