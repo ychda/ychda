@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <!-- ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&hide=contribs,prs) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ychda&repo=brainyquote_spider&show_owner=true)](https://github.com/ychda/brainyquote_spider )
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychda&layout=compact)](https://github.com/ychda/brainyquote_spider)
