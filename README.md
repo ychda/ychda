@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 <!-- ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&show_icons=true&theme=radical) -->
 
-![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&count_private=true&show_owner=true)
+![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&count_private=true)
 
 <!-- ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&hide=contribs,prs) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ychda&repo=brainyquote_spider)](https://github.com/ychda/brainyquote_spider )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ychda&repo=brainyquote_spider&show_owner=true)](https://github.com/ychda/brainyquote_spider )
