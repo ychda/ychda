@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&count_private=true)
 
 ![ychda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ychda&hide=contribs,prs)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ychda&repo=github-readme-stats)](https://github.com/ychda/github-readme-stats)
